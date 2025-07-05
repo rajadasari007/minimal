@@ -2,7 +2,7 @@
 ---
 ## Natural Language Processing
 
-### Sentiment Based Product Recommendation
+### Sentiment Based Product Recommendation 
 
 Ebuss, a growing e-commerce company competing with giants like Amazon and Flipkart, sells a wide range of products online— from household essentials to healthcare—aiming to expand rapidly in the digital marketplace.
 
