@@ -1,15 +1,13 @@
-title: "Rajakoti Dasari"
-logo: "/assets/img/01009361-891e-4dc1-b1ce-604b7bcba505.jpg"
+title: Rajakoti Dasari
+description: Data Engineer | AI/ML Enthusiast | NLP | Computer Vision
+baseurl: "" # Keep this blank for user/organization GitHub Pages
+url: "https://rajadasari007.github.io" # Change if you use a custom domain
+theme: minima
 
-description: >
-  <p align="center">
-    <a href="pdf/resume.pdf">Resume</a> |
-    <a href="https://www.linkedin.com/in/raj-d-a926b0237/">LinkedIn</a> |
-    <a href="https://github.com/rajadasari007">GitHub</a>
-    <br><br>
-    I'm working as a Data Engineer (AI/ML) with experience in healthcare & e-commerce domains.<br>
-    Patent holder in a sensor-based monitoring device.<br>
-    Designed and managed modern data stacks using Snowflake, dbt, and Airbyte for seamless data movement and transformation.<br>
-    Automated API integrations and real-time workflows using Pipedream and Hevo ETL for continuous data ingestion.<br>
-    Built end-to-end ML pipelines and analytics tools in Python to generate insights and improve operational efficiency.
-  </p>
+# Optional
+author:
+  name: "Rajakoti Dasari"
+  email: "your-email@example.com"
+
+plugins:
+  - jekyll-seo-tag
