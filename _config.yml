@@ -1,20 +1,15 @@
-title: <p align="center"> Rajakoti Dasari </p>
-logo: /assets/img/01009361-891e-4dc1-b1ce-604b7bcba505.jpg
+title: "Rajakoti Dasari"
+logo: "/assets/img/01009361-891e-4dc1-b1ce-604b7bcba505.jpg"
 
-description:
+description: >
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/raj-d-a926b0237/">LinkedIn</a> |
-  <a href="https://github.com/rajadasari007">GitHub</a>
- 
-  <br>  
-  I'm working on Data Engineer (AI/ML) with healthcare & e-commerce experience | Patent holder in sensor-based monitoring device.
-  Also Designed and managed modern data stacks using Snowflake, dbt, and Airbyte for seamless data movement and transformation
-  Automated API integrations and real-time workflows using Pipedream and Hevo ETL for continuous data ingestion. 
-  Built end-to-end ML pipelines and analytics tools in Python for insight generation and operational efficiency
-  <br>
+    <a href="pdf/resume.pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/raj-d-a926b0237/">LinkedIn</a> |
+    <a href="https://github.com/rajadasari007">GitHub</a>
+    <br><br>
+    I'm working as a Data Engineer (AI/ML) with experience in healthcare & e-commerce domains.<br>
+    Patent holder in a sensor-based monitoring device.<br>
+    Designed and managed modern data stacks using Snowflake, dbt, and Airbyte for seamless data movement and transformation.<br>
+    Automated API integrations and real-time workflows using Pipedream and Hevo ETL for continuous data ingestion.<br>
+    Built end-to-end ML pipelines and analytics tools in Python to generate insights and improve operational efficiency.
   </p>
-
-
-
-theme: jekyll-theme-minimal
