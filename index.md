@@ -4,9 +4,9 @@
 
 ### Sentiment Based Product Recommendation 
 
-Ebuss, a growing e-commerce company competing with giants like Amazon and Flipkart, sells a wide range of products online— from household essentials to healthcare—aiming to expand rapidly in the digital marketplace.
-
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rajadasari007/Sentiment-Based-Recommendation-Systems)
+
+Ebuss, a growing e-commerce company competing with giants like Amazon and Flipkart, sells a wide range of products online— from household essentials to healthcare—aiming to expand rapidly in the digital marketplace.
 
 <center><img src="assets/img/Sentiment-based-recommendation-system.jpg"/></center>
 
