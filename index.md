@@ -8,7 +8,7 @@ Ebuss, a growing e-commerce company competing with giants like Amazon and Flipka
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rajadasari007/Sentiment-Based-Recommendation-Systems)
 
-<center><img src="assets/img/generated-image (1).png"/></center>
+<center><img src="assets/img/Sentiment-based-recommendation-system.jpg"/></center>
 
 ---
 ### Seedlings_Classification_Computer_Vision
